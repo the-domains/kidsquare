@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T03:59:39.788Z'
-dateModified: '2015-12-16T03:53:07.240Z'
+datePublished: '2015-12-16T06:37:55.593Z'
+dateModified: '2015-12-16T06:37:32.035Z'
 title: Điều những ông bố tốt không bao giờ làm
 author: []
 sourcePath: _posts/2015-12-16-iu-nhng-ong-b-tt-khong-bao-gi-lam.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: iu-nhng-ong-b-tt-khong-bao-gi-lam/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Điều những ông bố tốt không bao giờ làm
