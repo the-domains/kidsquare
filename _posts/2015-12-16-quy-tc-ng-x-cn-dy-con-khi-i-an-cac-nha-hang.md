@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T03:38:15.759Z'
-dateModified: '2015-12-16T03:37:58.815Z'
+datePublished: '2015-12-16T03:59:47.361Z'
+dateModified: '2015-12-16T03:55:00.383Z'
 title: Quy tắc ứng xử cần dạy con khi đi ăn ở các nhà hàng
 author: []
+sourcePath: _posts/2015-12-16-quy-tc-ng-x-cn-dy-con-khi-i-an-cac-nha-hang.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-quy-tc-ng-x-cn-dy-con-khi-i-an-cac-nha-hang.md
-published: true
 url: quy-tc-ng-x-cn-dy-con-khi-i-an-cac-nha-hang/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Quy tắc ứng xử cần dạy con khi đi ăn ở các nhà hàng
