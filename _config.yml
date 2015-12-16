@@ -1,6 +1,6 @@
 name: kidsquare
 favicon: null
-layout_spectrum: 0.25129
+layout_spectrum: 1
 typography_spectrum: 0.24871
 title: The ultimate place for your childs
 cta:
@@ -22,8 +22,8 @@ color:
     - '#88c3e7'
     - '#6ab1df'
     - '#cce0f3'
-  brandStrength: 1
-  lightness: 0.5854842136614025
-  saturation: 0.6115714046172798
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 0.14442620356567204
 purpose: []
