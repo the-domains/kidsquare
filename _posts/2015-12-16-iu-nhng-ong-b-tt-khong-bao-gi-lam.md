@@ -1,36 +1,34 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T03:44:49.202Z'
-dateModified: '2015-12-16T03:44:16.268Z'
+datePublished: '2015-12-16T03:59:39.788Z'
+dateModified: '2015-12-16T03:53:07.240Z'
 title: Điều những ông bố tốt không bao giờ làm
 author: []
+sourcePath: _posts/2015-12-16-iu-nhng-ong-b-tt-khong-bao-gi-lam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-iu-nhng-ong-b-tt-khong-bao-gi-lam.md
-published: true
 url: iu-nhng-ong-b-tt-khong-bao-gi-lam/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Điều những ông bố tốt không bao giờ làm
 
 ### Nói mà không làm
 
-Những người bố tốt không bao giờ nói mà không làm. Họ không bao giờ [dạy con][0]
+Những người bố tốt không bao giờ nói mà không làm. Họ không bao giờ dạy con là không được mất bình tĩnh nhưng lại dễ dàng nổi quạu lên khi tắc đường. Họ không bao giờ dạy con phải có cách hành xử đúng mức nhưng lại dễ dàng lớn tiếng quát nạt người khác... Những ông bố có trách nhiệm luôn nhận thức rõ ràng về việc trẻ có thể lặp lại những hành vi mà họ đã làm. Họ cũng ý thức được việc con mình sẽ là "bản sao" của mình nếu mình làm không đúng.
 
-là không được mất bình tĩnh nhưng lại dễ dàng nổi quạu lên khi tắc đường. Họ không bao giờ dạy con phải có cách hành xử đúng mức nhưng lại dễ dàng lớn tiếng quát nạt người khác... Những ông bố có trách nhiệm luôn nhận thức rõ ràng về việc trẻ có thể lặp lại những hành vi mà họ đã làm. Họ cũng ý thức được việc con mình sẽ là "bản sao" của mình nếu mình làm không đúng.
-
-Đánh con
+### Đánh con
 
 Một người bố vô trách nhiệm sẽ sử dụng bạo lực và đánh đập con để áp dụng những nguyên tắc của mình. Một người bố kỷ luật tốt sẽ sử dụng các phương pháp kỷ luật con hiệu quả hơn để áp dụng trong thời gian dài. Sử dụng bạo lực là cách bạn đang dạy cho con thấy đánh đấm có thể là một cách để giải quyết xung đột.
 
@@ -54,9 +52,7 @@ Khi hôn nhân có xung đột, căng thẳng  thường trẻ em là đối tư
 
 Một người bố có trách nhiệm sẽ thể hiện sự yêu thương, tôn trọng với vợ-  mẹ của đứa trẻ và những đứa con trong gia đình. Một người cha thiếu tôn trọng, và thường xuyên chì chiết các thành viên trong gia đình sẽ không bao giờ có được những đứa con phát yêu mến và kính trọng mình.
 
-Độc đoán
+### Độc đoán
 
 Các ông bố độc đáon sẽ luôn luôn cho rằng mình đúng và áp dụng những nguyên tắc thô bạo và khắc nghiệt.Đối ngược lại, những ông bố có trách nhiệm không bao giờ độc tài, họ sẽ luôn dành cho con những cơ hội, sự lựa chọn để phát triển trong môi trường ấp ám và có hỗ trợ của bố mẹ.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40c3ffb1-7f36-4fc3-9949-829a15ee59de.jpg)
-
-[0]: http://afamily.vn/day-con.htm "dạy con "
