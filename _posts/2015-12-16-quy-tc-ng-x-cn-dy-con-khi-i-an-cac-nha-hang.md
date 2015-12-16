@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T06:45:38.003Z'
-dateModified: '2015-12-16T06:45:34.340Z'
+datePublished: '2015-12-16T06:54:49.620Z'
+dateModified: '2015-12-16T06:50:54.574Z'
 title: Quy tắc ứng xử cần dạy con khi đi ăn ở các nhà hàng
 author: []
 sourcePath: _posts/2015-12-16-quy-tc-ng-x-cn-dy-con-khi-i-an-cac-nha-hang.md
