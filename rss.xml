@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The ultimate place for your childs]]></title>
         <description><![CDATA[The ultimate place for your childs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kidsquare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 03:23:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 03:38:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kidsquare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quy tắc ứng xử cần dạy con khi đi ăn ở các nhà hàng]]></title>
+            <description><![CDATA[<article><h1>Quy tắc ứng xử cần dạy con khi đi ăn ở các nhà hàng</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2a4db00-e036-4fc3-a974-ed26bcd046ca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kidsquare/quy-tc-ng-x-cn-dy-con-khi-i-an-cac-nha-hang/index.html</link>
+            <guid isPermaLink="false">d865b402-f73d-4a63-92f9-97b9486f3be8</guid>
+            <pubDate>Wed, 16 Dec 2015 03:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mầm non phát triển Châu Á - ADES]]></title>
             <description><![CDATA[<article><h1>Mầm non phát triển Châu Á - ADES</h1><p>Trường được thành lập và hoạt động từ năm 2007, chính thức mang tên Trường Mầm Non Phát Triển Châu Á (ADES KINDERGARTEN) vào đầu năm 2012. Trường đạt được sự tín nhiệm và tin tưởng của rất nhiều quý vị phụ huynh suốt quá trình phát triển của trường. -Dưới sự dẫn dắt và quản lý của cô Huỳnh Thị Bích Đức – Hiệu trưởng, đã được học tập bồi dưỡng tại Singapore cùng với thâm niên công tác trên 30 năm tại các trường công lập, đảm bảo đáp ứng các tiêu chí giáo dục mới và tiên tiến của các quốc gia châu Á trong khu vực. Trường mầm non ades qua 5 năm hoạt động, ngày càng củng cố vị trí và niềm tin của phụ huynh về nhà trường, đây là phần thưởng lớn nhất cho những nỗ lực của nhà trường trong việc áp dụng các phương pháp giảng dạy cả tiếng Anh lẫn tiếng Việt cũng như phương pháp chăm sóc, dinh dưỡng. -Đặc biệt, trường luôn đạt được các thang điểm tối đa trong kiểm tra toàn diện các mặt về chăm sóc – giáo dục bởi các đoàn kiểm tra của các ban ngành.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/208a822d39309e6e0e32e997da6d6fd2cb1c595d.jpg"></article>]]></description>
-            <link>undefinedmm-non-phat-trin-chau-a-ades/index.html</link>
+            <link>https://thegrid.ai/kidsquare/mm-non-phat-trin-chau-a-ades/index.html</link>
             <guid isPermaLink="false">5c983560-b8bd-4662-8190-7da8ec24b8bb</guid>
             <pubDate>Wed, 16 Dec 2015 03:23:33 GMT</pubDate>
         </item>
